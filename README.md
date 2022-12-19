@@ -84,3 +84,9 @@ Finland
 
 28 France
 147.135.231.100
+
+29 United Arab Emirates
+5.44.42.40
+
+30 Hong Kong
+45.80.128.15
